@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=refind-bless
+Comment=Choose which OS rEFInd boots next
+Exec=python3 /path/to/refind-bless/refind_bless.py
+Icon=system-reboot
+Terminal=false
+Categories=System;Utility;
